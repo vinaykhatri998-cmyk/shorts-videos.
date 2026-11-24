@@ -1,73 +1,26 @@
 {
- "channel": "TBD (psychology channel, not yet connected)",
- "connection_id": null,
+ "channel": "H-Psychology",
+ "connection_id": "023acbc5-9c9c-8f88-85a2-5af1d67aa495",
  "queue": [
-  {
-   "n": 41,
-   "file": "41-negotiation.mp4",
-   "title": "3 Negotiation Tricks So You Never Pay Full Price Again 💰 #psychology #shorts",
-   "description": "Who should name the price first? Guess before the answer. Three psychology tricks for any negotiation: anchor first, the flinch, and strategic silence. Follow for a new psychology trick every day. #psychology #negotiation #moneytips #persuasion #shorts"
-  },
-  {
-   "n": 42,
-   "file": "42-sales-tricks.mp4",
-   "title": "3 Psychology Tricks Salespeople Use on You 🛍️ #shorts",
-   "description": "Only 2 left in stock? Everyone's buying it? A free sample? Guess which trick works best, then learn how scarcity, social proof and reciprocity make you spend. Follow for a new psychology trick every day. #psychology #marketing #sales #moneytips #shorts"
-  },
-  {
-   "n": 43,
-   "file": "43-introvert-or-extrovert.mp4",
-   "title": "Are You an Introvert or Extrovert? Take This 3 Question Test 🧠 #shorts",
-   "description": "Answer three quick questions and count your A's and B's. A fun psychology quiz about where you get your energy. Follow for a new psychology trick every day. #psychology #introvert #extrovert #personalitytest #shorts"
-  },
-  {
-   "n": 44,
-   "file": "44-why-you-cant-stop-scrolling.mp4",
-   "title": "Why You Can't Stop Scrolling 📱 (It's Not Your Fault) #shorts",
-   "description": "Apps use slot machine psychology: random rewards, no stopping point, and fear of missing out. Here's how they hook you and how to fight back. Follow for a new psychology trick every day. #psychology #socialmedia #scrolling #dopamine #shorts"
-  },
-  {
-   "n": 45,
-   "file": "45-stop-interruptions.mp4",
-   "title": "3 Psychology Tricks to Stop People Interrupting You ✋ #shorts",
-   "description": "Tired of being cut off? Use the hand pause, keep your volume steady, and the calm name-and-finish line. Follow for a new psychology trick every day. #psychology #communication #confidence #respect #shorts"
-  },
-  {
-   "n": 46,
-   "file": "46-brain-tests.mp4",
-   "title": "3 Brain Tests That Fool Almost Everyone 🤯 Can You Pass? #shorts",
-   "description": "Take three famous psychology tests: the Stroop color test, the Moses illusion, and the bat-and-ball puzzle. Comment your score. Follow for a new psychology trick every day. #psychology #braintest #quiz #riddles #shorts"
-  },
-  {
-   "n": 47,
-   "file": "47-revenge-bedtime.mp4",
-   "title": "Why You Stay Up Late Even When You're Tired 🌙 #shorts",
-   "description": "It's called revenge bedtime procrastination. Here's why your brain does it and three tricks to finally sleep on time. Follow for a new psychology trick every day. #psychology #sleep #procrastination #selfcare #shorts"
-  },
-  {
-   "n": 48,
-   "file": "48-rock-paper-scissors.mp4",
-   "title": "How to Win at Rock Paper Scissors Using Psychology ✊✋✌️ #shorts",
-   "description": "Real studies found patterns in how people play. Winners repeat, losers switch, and beginners often open with rock. Test it on your friends. Follow for a new psychology trick every day. #psychology #rockpaperscissors #lifehacks #games #shorts"
-  },
-  {
-   "n": 49,
-   "file": "49-lies-your-brain-tells.mp4",
-   "title": "3 Lies Your Brain Tells You Every Day 🧠 #shorts",
-   "description": "I'll do it tomorrow, bad things won't happen to me, and one mistake ruins everything. Present bias, optimism bias, and negativity bias explained. Follow for a new psychology trick every day. #psychology #brain #cognitivebias #mindset #shorts"
-  },
-  {
-   "n": 50,
-   "file": "50-make-someone-open-up.mp4",
-   "title": "3 Psychology Tricks to Make Anyone Open Up 💬 #shorts",
-   "description": "Go beyond small talk: share something first, ask about feelings not facts, and use the power of a comfortable pause. Follow for a new psychology trick every day. #psychology #conversation #relationships #socialskills #shorts"
-  },
   {
    "n": 51,
    "file": "51-spotlight-effect.mp4",
-   "title": "Nobody Is Watching You (The Spotlight Effect) 👀 #psychology #shorts",
+   "title": "Nobody Is Watching You (The Spotlight Effect) 👀 #psychology #shorts #viral",
    "description": "You think everyone noticed your mistake. Guess how many actually did, then learn the spotlight effect and two tricks to stop feeling watched. Follow for a new psychology trick every day. #psychology #anxiety #confidence #mindset #shorts"
   }
  ],
- "uploaded": []
+ "uploaded": [],
+ "channel_id": "UC7dunRdEdLr7h5GQgSac-Ig",
+ "already_on_channel_before_automation": [
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50
+ ]
 }
